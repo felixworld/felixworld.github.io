@@ -1830,7 +1830,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb4eb;
+  background: #71ff2a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3000,13 +3000,4 @@ pre .javascript .function {
 }
 .site-meta {
   background: #0684bd;
-}
-.header {
-  width: 85%;
-}
-.container .main-inner {
-  width: 85%;
-}
-.content-wrap {
-  width: calc(100% - 260px);
 }
